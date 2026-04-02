@@ -2,7 +2,7 @@
 name: ts-backtest
 description: "Backtesting with expanding or sliding window temporal cross-validation. Multi-model comparison with Diebold-Mariano tests."
 aliases: [backtest, temporal cross-validation, time series cv, ts cv, walk-forward]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

@@ -1,4 +1,4 @@
-# ml-automation-timeseries
+# spark-timeseries
 
 Time series analysis and forecasting extension for [ml-automation](https://github.com/Maxilylm/ml-automation-core).
 
@@ -11,7 +11,7 @@ Time series analysis and forecasting extension for [ml-automation](https://githu
 ## Installation
 
 ```bash
-claude plugin add /path/to/ml-automation-timeseries
+claude plugin add /path/to/spark-timeseries
 ```
 
 ## What's Included

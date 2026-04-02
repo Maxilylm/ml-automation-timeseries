@@ -2,7 +2,7 @@
 name: ts-anomaly
 description: "Detect anomalies in time series using statistical (Z-score, IQR) and ML methods (Isolation Forest, LOF). Includes changepoint detection."
 aliases: [anomaly detection, time series anomaly, outlier detection, ts outlier]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

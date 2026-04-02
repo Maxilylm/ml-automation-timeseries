@@ -2,7 +2,7 @@
 name: ts-decompose
 description: "Decompose time series into trend, seasonal, and residual components using STL, classical, or MSTL methods."
 aliases: [decompose, time series decomposition, seasonal decomposition, stl]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

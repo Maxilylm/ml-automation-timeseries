@@ -1,7 +1,7 @@
 """
-Time series utilities for the ml-automation-timeseries extension plugin.
+Time series utilities for the spark-timeseries extension plugin.
 
-Requires ml_utils.py from the ml-automation core plugin to be present
+Requires ml_utils.py from the spark core plugin to be present
 in the same directory (copied via Stage 0 of time series commands).
 """
 

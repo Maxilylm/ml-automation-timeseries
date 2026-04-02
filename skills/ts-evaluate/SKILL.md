@@ -2,7 +2,7 @@
 name: ts-evaluate
 description: "Evaluate forecast accuracy with MAPE, RMSE, SMAPE, coverage, and Winkler score. Includes error pattern analysis."
 aliases: [forecast evaluation, forecast accuracy, ts metrics, forecast metrics]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

@@ -4,7 +4,7 @@ description: "Detect anomalies and outliers in time series data using statistica
 model: sonnet
 color: "#065F46"
 tools: [Read, Write, Bash(*), Glob, Grep]
-extends: ml-automation
+extends: spark
 routing_keywords: [anomaly detection, outlier detection, time series anomaly, changepoint, unusual pattern, spike detection]
 ---
 

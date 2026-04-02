@@ -4,7 +4,7 @@ description: "Train and evaluate forecasting models. Supports Prophet, ARIMA/SAR
 model: sonnet
 color: "#047857"
 tools: [Read, Write, Bash(*), Glob, Grep]
-extends: ml-automation
+extends: spark
 routing_keywords: [forecast, prophet, arima, sarima, exponential smoothing, nbeats, temporal fusion, prediction, time series model]
 hooks_into:
   - after-training

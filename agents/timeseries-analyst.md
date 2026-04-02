@@ -4,7 +4,7 @@ description: "Analyze time series data for patterns, seasonality, trends, statio
 model: sonnet
 color: "#059669"
 tools: [Read, Write, Bash(*), Glob, Grep]
-extends: ml-automation
+extends: spark
 routing_keywords: [time series, timeseries, temporal, seasonality, trend, autocorrelation, stationarity, adf test, decomposition, lag analysis]
 hooks_into:
   - after-eda

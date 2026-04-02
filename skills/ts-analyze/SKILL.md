@@ -2,7 +2,7 @@
 name: ts-analyze
 description: "Comprehensive time series EDA: decomposition, stationarity tests (ADF, KPSS), ACF/PACF analysis, and seasonality detection with spectral methods."
 aliases: [time series eda, time series analysis, ts eda, temporal analysis]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 

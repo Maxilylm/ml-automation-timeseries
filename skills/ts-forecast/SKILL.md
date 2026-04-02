@@ -2,7 +2,7 @@
 name: ts-forecast
 description: "Train forecasting models (Prophet, ARIMA, ETS, N-BEATS, TFT) with temporal cross-validation and automatic model selection."
 aliases: [forecast, time series forecast, predict time series, ts predict]
-extends: ml-automation
+extends: spark
 user_invocable: true
 ---
 
