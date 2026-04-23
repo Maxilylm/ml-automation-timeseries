@@ -1,0 +1,28 @@
+{
+  "name": "spark-timeseries",
+  "version": "0.2.0",
+  "description": "Time series analysis and forecasting extension for spark. Prophet, ARIMA, neural forecasting, seasonality decomposition, temporal cross-validation, and anomaly detection.",
+  "author": {
+    "name": "Maximo Lorenzo y Losada"
+  },
+  "repository": "https://github.com/Maxilylm/ml-automation-timeseries",
+  "license": "MIT",
+  "keywords": [
+    "timeseries",
+    "forecasting",
+    "prophet",
+    "arima",
+    "seasonality",
+    "temporal",
+    "anomaly-detection",
+    "spark-extension",
+    "cortex-code"
+  ],
+  "dependencies": ["spark-core"],
+  "cortex": {
+    "agents_dir": "agents",
+    "skills_dir": "skills",
+    "commands_dir": "commands",
+    "hooks_dir": "hooks"
+  }
+}
