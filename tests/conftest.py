@@ -18,7 +18,7 @@ def mock_llm_response():
                 "text": "This is a test LLM response."
             }
         ],
-        "model": "claude-3-5-haiku-20241022",
+        "model": "claude-opus-4-7",
         "usage": {
             "input_tokens": 100,
             "output_tokens": 50
