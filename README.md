@@ -1,10 +1,10 @@
 # spark-timeseries
 
-Time series analysis and forecasting extension for [ml-automation](https://github.com/Maxilylm/ml-automation-core).
+Time series analysis and forecasting extension for [ml-automation](https://github.com/BLEND360/ml-automation-core).
 
 ## Prerequisites
 
-- [ml-automation](https://github.com/Maxilylm/ml-automation-core) core plugin (>= v1.8.0)
+- [ml-automation](https://github.com/BLEND360/ml-automation-core) core plugin (>= v1.8.0)
 - Claude Code CLI
 - Time series libraries as needed: `statsmodels`, `prophet`, `scikit-learn`, `neuralforecast`
 
