@@ -18,11 +18,11 @@ claude plugin add /path/to/spark-timeseries
 
 ### Agents
 
-| Agent | Purpose | Hooks Into |
-|---|---|---|
-| `timeseries-analyst` | Pattern analysis, seasonality, stationarity, ACF/PACF, decomposition | `after-eda` |
-| `forecaster` | Prophet, ARIMA, ETS, N-BEATS, TFT with temporal cross-validation | `after-training` |
-| `anomaly-detector` | Statistical and ML anomaly detection, changepoint detection | *(direct invocation)* |
+| Agent | Purpose |
+|---|---|
+| `timeseries-analyst` | Pattern analysis, seasonality, stationarity, ACF/PACF, decomposition |
+| `forecaster` | Prophet, ARIMA, ETS, N-BEATS, TFT with temporal cross-validation |
+| `anomaly-detector` | Statistical and ML anomaly detection, changepoint detection |
 
 ### Commands
 

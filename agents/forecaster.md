@@ -6,8 +6,6 @@ color: "#047857"
 tools: [Read, Write, Bash(*), Glob, Grep]
 extends: spark
 routing_keywords: [forecast, prophet, arima, sarima, exponential smoothing, nbeats, temporal fusion, prediction, time series model]
-hooks_into:
-  - after-training
 ---
 
 # Forecaster
