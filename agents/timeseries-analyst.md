@@ -6,8 +6,6 @@ color: "#059669"
 tools: [Read, Write, Bash(*), Glob, Grep]
 extends: spark
 routing_keywords: [time series, timeseries, temporal, seasonality, trend, autocorrelation, stationarity, adf test, decomposition, lag analysis]
-hooks_into:
-  - after-eda
 ---
 
 # Time Series Analyst
